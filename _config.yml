@@ -1,13 +1,18 @@
 title: Dhatri Badri # your name (or website title) here
 logo: "/images/profile-pic.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hi! My name is Dhatri Badri and I graduated George Washington University 
-  in Cell and Molecular Biology. Currently, I am a graduate student at
-  Boston University getting my Masters in Bioinformatics. 
+  Hi! My name is Dhatri Badri and I am a 
+  budding Bioinformatician. 
+  [A sentence about Bioinfrmatics and why I like it]
   <br><br>
-  How does this look?
+  Currently, I am a graduate student at
+  Boston University getting my Masters in Bioinformatics. 
+  I graduated George Washington University 
+  in Cell and Molecular Biology.
   <br><br>
   <a href="www.linkedin.com/in/dhatri-badri-14b3a522a">View My LinkedIn Profile</a> 
+  <br><br>
+  <a (/pdf/sample_presentation.pdf)>View My Resume</a>
   
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
