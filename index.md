@@ -4,22 +4,22 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Metagenomic and Metataxonomics of Vermicompost Microbiome](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Finding potential epitope sites on COVID-19 S protein](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Finding new species of crayfish in arkansas](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Metagenomic and Metataxonomics of Vermicompost Microbiome](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
