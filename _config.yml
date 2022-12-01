@@ -10,7 +10,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   I graduated George Washington University 
   in Cell and Molecular Biology.
   <br><br>
-  <a href="www.linkedin.com/in/dhatri-badri-14b3a522a">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/dhatri-badri-14b3a522a">View My LinkedIn Profile</a> <br>
   <a href="/pdf/Dhatri-Badri_Resume.pdf">View My Resume</a>
   
 theme: jekyll-theme-minimal
