@@ -71,8 +71,7 @@ Unfortunately, I was unable to upload all the pictures.
         <img src="images/Fungal-AD.jpeg"/>
       </div>
       <div class="text">
-        <h3>Paris is one of the most beautiful cities in France.
-         Blah blah blah
+        <h3>Across all alpha-diversity tests for the ITS data, the samples with earthworms showed higher levels of alpha-diversity than the control                   samples. Shotgun analysis showed inconclusive results, with diversity levels ranging widely by the test used, and with the samples with and               without earthworms showing nearly the same level of diversity.
         </h3>
       </div>
     </div>
