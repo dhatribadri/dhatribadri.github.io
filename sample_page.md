@@ -8,23 +8,28 @@ enhancing subsequent production as a richer form of organic fertilizer, thus off
 to chemicals while converting waste products into fertilizer. 
 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. What kind of data was I dealing with?
 
-Microbial profiles were obtained by shotgun sequencing  of genomes and through amplicon sequencing of 16S rRNA for bacteria and ITS for fungi.
+Microbial profiles were obtained by shotgun sequencing of genomes and through amplicon sequencing of 16S rRNA for bacteria and ITS for fungi.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
-### 2. Assess assumptions on which statistical inference will be based
+### 2. How was data processed?
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+Data from 16S and 18S sequencing were processed using the R package [*dada2* version 1.12](https://www.nature.com/articles/nmeth.3869). 
+Then, the standard dada2 pipeline was applied to perform amplicon sequence variant (ASV)
+inference, merge paired reads, and identify chimeras. Taxonomic assignment for 16S was
+performed against the [Silva v132 database](https://doi.org/10.1093/nar/gks1219) using the dada2-formatted
+training files for taxonomy and [species-level assignment](https://zenodo.org/record/1172783#.Y4l5PuzMI6A). Taxonomic
+assignment for 18S was performed against the [Silva v132 Eukaryotic 18S database](https://zenodo.org/record/1447330#.Y4l5jOzMI6A).
+
+Data from ITS sequencing were processed differently due to the variable size of the ITS region.
+Raw reads from ITS sequencing were first subject to adapter trimming by cutadapt version
+2.3 (Martin, 2011) which removed primer sequences due to read-through. Taxonomic assignment for ITS was performed
+against the UNITE version 18.11.2018 database (UNITE Community, 2019)
+
+For the resulting 16S, 18S, and ITS dada2-processed data, ASV sequences were aligned using
+MAFFT (Katoh and Standley, 2013) and used to build a tree with FastTree (Price et al., 2010). The resulting data were imported into phyloseq
+(McMurdie and Holmes, 2013) for further analysis.
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
@@ -34,4 +39,4 @@ if (isAwesome){
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[//]: # (For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).)
