@@ -1,10 +1,16 @@
-## This can be your internal website page / project page
+## Characterizing vermicompost microbiome based on shotgun and amplicon sequecing
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** This project aimed to compare inferences from metagenomic and metataxonomic 
+data to characterize the diversity of the bacterial and fungal communities associated with vermicomposting.
+Vermicomposting takes advantage of the synergistic effects of worms and microorganisms (bacteria and fungi) 
+to decompose organic waste. Furthermore, worms can enrich the microbial communities of the resulting compost,
+enhancing subsequent production as a richer form of organic fertilizer, thus offering a sustainable alternative 
+to chemicals while converting waste products into fertilizer. 
+
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Microbial profiles were obtained by shotgun sequencing  of genomes and through amplicon sequencing of 16S rRNA for bacteria and ITS for fungi.
 
 ```javascript
 if (isAwesome){
