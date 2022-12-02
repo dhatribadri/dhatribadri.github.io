@@ -5,7 +5,7 @@
 ### Projects 
 
 [Metagenomics and Metataxonomics of Vermicompost Microbiomes](/sample_page)
-<img src="images/relativeAbundance-bacteria.jpg"/>
+<img src="images/relativeAbundance-bacteria.jpeg"/>
 
 ---
 [Finding potential epitope sites on COVID-19 S protein](/pdf/sample_presentation.pdf)
