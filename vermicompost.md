@@ -57,7 +57,7 @@ Unfortunately, I was unable to upload all the pictures.
         max-width: 100%
       }
       .image {
-        flex-basis: 700%
+        flex-basis: 900%
       }
       .text {
         font-size: 10px;
