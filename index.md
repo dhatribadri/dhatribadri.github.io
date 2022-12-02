@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[Metagenomic and Metataxonomics of Vermicompost Microbiome](/sample_page)
+[Metagenomics and Metataxonomics of Vermicompost Microbiomes](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Finding new species of crayfish in arkansas](http://example.com/)
+[Potentially finding new species of crayfish in arkansas](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
