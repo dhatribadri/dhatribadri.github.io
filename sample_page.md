@@ -57,11 +57,11 @@ Unfortunately, I was unable to upload all the pictures.
         max-width: 100%
       }
       .image {
-        flex-basis: 550%
+        flex-basis: 700%
       }
       .text {
-        font-size: 2px;
-        padding-left: 2px;
+        font-size: 10px;
+        padding-left: 10px;
       }
     </style>
   </head>
@@ -71,7 +71,7 @@ Unfortunately, I was unable to upload all the pictures.
         <img src="images/Fungal-AD.jpeg"/>
       </div>
       <div class="text">
-        <h1>Paris is one of the most beautiful cities in France.</h1>
+        <h3>Paris is one of the most beautiful cities in France.</h3>
       </div>
     </div>
   </body>
