@@ -57,11 +57,11 @@ Unfortunately, I was unable to upload all the pictures.
         max-width: 100%
       }
       .image {
-        flex-basis: 250%
+        flex-basis: 550%
       }
       .text {
         font-size: 2px;
-        padding-left: 10px;
+        padding-left: 2px;
       }
     </style>
   </head>
