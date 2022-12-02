@@ -11,7 +11,7 @@ to chemicals while converting waste products into fertilizer.
 ### 1. What kind of data was I dealing with?
 
 Microbial profiles were obtained by shotgun sequencing of genomes and through amplicon sequencing of 16S rRNA for bacteria and ITS for fungi.
-
+Overview of abundant taxa in each group. Alpha diversity and beta diversity
 
 ### 2. How was data processed?
 
@@ -23,15 +23,14 @@ training files for taxonomy and [species-level assignment](https://zenodo.org/re
 assignment for 18S was performed against the [Silva v132 Eukaryotic 18S database](https://zenodo.org/record/1447330#.Y4l5jOzMI6A).
 
 Data from ITS sequencing were processed differently due to the variable size of the ITS region.
-Raw reads from ITS sequencing were first subject to adapter trimming by cutadapt version
-2.3 (Martin, 2011) which removed primer sequences due to read-through. Taxonomic assignment for ITS was performed
-against the UNITE version 18.11.2018 database (UNITE Community, 2019)
+Raw reads from ITS sequencing were first subject to adapter trimming by [cutadapt version
+2.3](https://doi.org/10.14806/ej.17.1.200) which removed primer sequences due to read-through. Taxonomic assignment for ITS was performed
+against the [UNITE version 18.11.2018 database](https://unite.ut.ee/repository.php).
 
 For the resulting 16S, 18S, and ITS dada2-processed data, ASV sequences were aligned using
-MAFFT (Katoh and Standley, 2013) and used to build a tree with FastTree (Price et al., 2010). The resulting data were imported into phyloseq
-(McMurdie and Holmes, 2013) for further analysis.
+[MAFFT](https://doi.org/10.1093/molbev/mst010) and used to build a tree with [FastTree](https://doi.org/10.1371/journal.pone.0009490). The resulting data were imported into [phyloseq](https://doi.org/10.1371/journal.pone.0061217) for further analysis.
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. How was data analyzed?
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
