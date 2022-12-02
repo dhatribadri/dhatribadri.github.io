@@ -44,7 +44,10 @@ Beta diversity: Bray, Jaccard
 
 ### 3. How was data analyzed?
 Unfortunately, I was unable to upload all the pictures.
-<style>
+
+<html>
+  <head>
+    <style>
       .container {
         display: flex;
         align-items: center;
@@ -60,15 +63,20 @@ Unfortunately, I was unable to upload all the pictures.
         font-size: 20px;
         padding-left: 20px;
       }
-</style>
-<div class="container">
+    </style>
+  </head>
+  <body>
+    <div class="container">
       <div class="image">
         <img src="images/Fungal-AD.jpeg"/>
       </div>
       <div class="text">
         <h1>Paris is one of the most beautiful cities in France.</h1>
       </div>
- </div>
+    </div>
+  </body>
+</html>
+
 [//]: # (<img src="images/Fungal-AD.jpeg"/>)
 
 <img src="images/pCoa-bacteria.jpeg"/>
