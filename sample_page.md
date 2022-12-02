@@ -7,13 +7,9 @@ to decompose organic waste. Furthermore, worms can enrich the microbial communit
 enhancing subsequent production as a richer form of organic fertilizer, thus offering a sustainable alternative 
 to chemicals while converting waste products into fertilizer. 
 
-
-### 1. What kind of data was I dealing with?
+### 1. How was data processed?
 
 Microbial profiles were obtained by shotgun sequencing of genomes and through amplicon sequencing of 16S rRNA for bacteria and ITS for fungi.
-Overview of abundant taxa in each group. Alpha diversity and beta diversity
-
-### 2. How was data processed?
 
 Data from 16S and 18S sequencing were processed using the R package [*dada2* version 1.12](https://www.nature.com/articles/nmeth.3869). 
 Then, the standard dada2 pipeline was applied to perform amplicon sequence variant (ASV)
@@ -30,9 +26,25 @@ against the [UNITE version 18.11.2018 database](https://unite.ut.ee/repository.p
 For the resulting 16S, 18S, and ITS dada2-processed data, ASV sequences were aligned using
 [MAFFT](https://doi.org/10.1093/molbev/mst010) and used to build a tree with [FastTree](https://doi.org/10.1371/journal.pone.0009490). The resulting data were imported into [phyloseq](https://doi.org/10.1371/journal.pone.0061217) for further analysis.
 
-### 3. How was data analyzed?
+### 2. What kind of data was I dealing with?
+It is imperative to ask the right questions to elicit the the right responses. 
+Overview of abundant taxa in each group—in phlya and class. Alpha and beta diversity indices. 
 
-<img src="images/relativeAbundance-bacteria.jpeg"/> <img src="images/Fungal-AD.jpeg"/>
+Alpha diversity: Chao, Shannon, Simpson, Fisher
+Beta diversity: Bray, Jaccard
+
+#### **Questions**
+    1. What are the most abundant bacterial and fungal taxa in each group?
+    2. Does taxonomic composition vary the same way across groups?
+    3. Does alpha-diversity vary the same way across groups?
+    4. Does beta-diversity vary the same way across groups?
+    5. What are the most abundant bacterial functions in each group?
+    6. Do bacterial functional profiles vary the same way across groups?
+
+
+### 3. How was data analyzed?
+Unfortunately, I was unable to upload all the pictures.
+<img src="images/Fungal-AD.jpeg"/>
 
 <img src="images/pCoa-bacteria.jpeg"/>
 
