@@ -33,9 +33,8 @@ For the resulting 16S, 18S, and ITS dada2-processed data, ASV sequences were ali
 ### 3. How was data analyzed?
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+<img src="images/relativeAbundance-bacteria.jpeg"/>
+<img src="images/Fungal-AD.jpeg"/>
+<img src="images/pCoa-bacteria.jpeg"/>
 
 [//]: # (For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).)
