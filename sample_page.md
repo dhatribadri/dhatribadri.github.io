@@ -71,7 +71,9 @@ Unfortunately, I was unable to upload all the pictures.
         <img src="images/Fungal-AD.jpeg"/>
       </div>
       <div class="text">
-        <h3>Paris is one of the most beautiful cities in France.</h3>
+        <h3>Paris is one of the most beautiful cities in France.
+         Blah blah blah
+        </h3>
       </div>
     </div>
   </body>
