@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[Metagenomics and Metataxonomics of Vermicompost Microbiomes](/sample_page)
+[Metagenomics and Metataxonomics of Vermicompost Microbiomes](/vermicompost)
 <img src="images/relativeAbundance-bacteria.jpeg"/>
 
 ---
