@@ -57,11 +57,11 @@ Unfortunately, I was unable to upload all the pictures.
         max-width: 100%
       }
       .image {
-        flex-basis: 40%
+        flex-basis: 75%
       }
       .text {
-        font-size: 20px;
-        padding-left: 20px;
+        font-size: 10px;
+        padding-left: 10px;
       }
     </style>
   </head>
@@ -76,8 +76,6 @@ Unfortunately, I was unable to upload all the pictures.
     </div>
   </body>
 </html>
-
-[//]: # (<img src="images/Fungal-AD.jpeg"/>)
 
 <img src="images/pCoa-bacteria.jpeg"/>
 
