@@ -20,16 +20,15 @@
 
 ### Publications
 
+[Here](https://scholar.google.com/citations?user=y-sIIrAAAAAJ&hl=en) is the link to my google scholar
+[Feature article in George Washington Undergraduate journal](https://issuu.com/gwur/docs/gwur-vol4)
 
 ---
 
 ### Articles 
 
-- [Metagenomic and Metataxonomics of Vermicompost Microbiome](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Women soldiers are not the problem – standards are](http://example.com/](https://gwur67.wixsite.com/blog/post/women-soldiers-are-not-the-problem-standards-are)
+- [Influence of militarism on science and technology](http://example.com/](https://gwur67.wixsite.com/blog/post/influence-of-militarism-on-science-and-technology)
 
 ---
 
