@@ -1,31 +1,14 @@
-## This can be your internal website page / project page
+## DNA Barcoding of Prospective New Crayfish Species
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+_**Information regarding the project is under review and this page will be updated as soon as the paper is published.**_
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+**Project description:** Crayfish are an important ecological resource in freshwater systems, and understanding their taxonomic relationships is important for species delineation and conservation. DNA barcode analysis was performed on crayfish specimens spanning over 20 species to contribute to the determination of a potential new crayfish species from the state of _**[redacted]**_ in the United States. Maximum-likelihood and Bayesian methods werer utilized to present phylogenetic analysis of mitochondrial DNA to represent possible evolutionary relationships between the proposed new species and other crayfish species found in _**[redacted]**_. Mitochondrial cytochrome-oxidase subunit I (mtCOI) and nuclear 16S ribosomal RNA (16S) regions of the genome were amplified for a small sample of unknown subjects; samples were then sequenced, aligned, and assembled alongside mtCOI and 16S sequences of known  crayfish species cataloged in GenBank. The phylogenetic tree derived mtCO indicates a close relationship with the genus Cambarellus, while the 16S data suggest a closer relationship between the unknown specimens and the genus Procambarus. Further testing with more genes may help to resolve the relationship of the proposed new species.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### 1. How was data processed?
 
-### 2. Assess assumptions on which statistical inference will be based
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### 2. What kind of data was I dealing with?
 
-### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 3. How was data analyzed?
