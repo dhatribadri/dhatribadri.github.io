@@ -13,8 +13,8 @@
 </video>
 
 ---
-[Potentially finding new species of crayfish in arkansas](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Potential finding of new species of crayfish in the United Statess](/crayfish)
+<img src="images/crayfish.jpeg"/>
 
 ---
 
