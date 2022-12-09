@@ -8,7 +8,7 @@
 <img src="images/relativeAbundance-bacteria.jpeg"/>
 
 ---
-[Finding potential epitope sites on COVID-19 S protein](/pdf/sample_presentation.pdf)
+[Finding potential epitope sites on COVID-19 S protein](/covid-19)
 <video src="https://user-images.githubusercontent.com/56312676/206598179-2b8f7631-bdcf-4c5e-99d8-5e8c8ad2cfb8.mov" controls="controls" style="max-width: 730px;">
 </video>
 
@@ -20,7 +20,7 @@
 
 ### Publications
 
-[Here](https://scholar.google.com/citations?user=y-sIIrAAAAAJ&hl=en) is the link to my google scholar
+[Here](https://scholar.google.com/citations?user=y-sIIrAAAAAJ&hl=en) is the link to my google scholar <br>
 [Feature article in George Washington Undergraduate journal](https://issuu.com/gwur/docs/gwur-vol4)
 
 ---
@@ -32,7 +32,7 @@
 
 ---
 
-
+<!--- (/pdf/sample_presentation.pdf) -->
 
 
 ---
