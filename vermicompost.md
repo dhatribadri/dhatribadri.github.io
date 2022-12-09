@@ -30,7 +30,7 @@ For the resulting 16S, 18S, and ITS dada2-processed data, ASV sequences were ali
 It is imperative to ask the right questions to elicit the the right responses. 
 Overview of abundant taxa in each group—in phlya and class. Alpha and beta diversity indices. 
 
-Alpha diversity: Chao, Shannon, Simpson, Fisher
+Alpha diversity: Chao, Shannon, Simpson, Fisher <br>
 Beta diversity: Bray, Jaccard
 
 #### **Questions**
