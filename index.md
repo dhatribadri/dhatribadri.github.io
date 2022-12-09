@@ -21,7 +21,7 @@
 ### Publications
 
 [Here](https://scholar.google.com/citations?user=y-sIIrAAAAAJ&hl=en) is the link to my google scholar <br>
-[Feature article in George Washington Undergraduate journal](https://issuu.com/gwur/docs/gwur-vol4)
+Feature [article](https://issuu.com/gwur/docs/gwur-vol4) in George Washington Undergraduate journal
 
 ---
 
