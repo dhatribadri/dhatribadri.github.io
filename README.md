@@ -2,10 +2,9 @@
 
 ### Introduction
 
-If you are seeing this, hi and welcome to my GitHub page! This is my personal space where I rave about all things related to Biology and Bioinformatics. You can skip to the good part and go directly to my website [here](dhatribadri.github.io). If you are stll here that's great!  My name is Dhatri and I am a budding Bioinformatician who loves   
-When I am not sitting in front of my computer , I am out exploring different neighborhoods in DC or Boston and hitting up museums to  
+If you are seeing this, hi and welcome to my GitHub page! This is my personal space where I rave about all things related to Biology and Bioinformatics. You can skip to the good part and go directly to my website [here](dhatribadri.github.io). If you are stll here that's great! My name is Dhatri and I am a budding Bioinformatician. When I am not sitting in front of my computer breaking my head over my programming assignment, I am out exploring different neighborhoods in DC or Boston and hitting up museums to be inspired to think of new ways to solve problems.   
 
-<img src="images/landing-page-pic.png"/>
+<img src="images/landing-page-pic.jpeg"/>
 
 
 ### Fun facts about me
