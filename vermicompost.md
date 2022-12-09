@@ -43,7 +43,7 @@ Beta diversity: Bray, Jaccard
 
 
 ### 3. How was data analyzed?
-Unfortunately, I was unable to upload all the pictures.
+Unfortunately, I was unable to include all my analyses so I selected.
 
 <html>
   <head>
@@ -71,13 +71,46 @@ Unfortunately, I was unable to upload all the pictures.
         <img src="images/Fungal-AD.jpeg"/>
       </div>
       <div class="text">
-        <h3>Across all alpha-diversity tests for the ITS data, the samples with earthworms showed higher levels of alpha-diversity than the control                   samples. Shotgun analysis showed inconclusive results, with diversity levels ranging widely by the test used, and with the samples with and               without earthworms showing nearly the same level of diversity.
+        <h3>Across all alpha-diversity tests for the ITS data, the samples with earthworms showed higher levels of alpha-diversity than the control                   samples. Shotgun analysis showed inconclusive results, with diversity levels ranging widely by the test used, and with the samples with                 and without earthworms showing nearly the same level of diversity.
         </h3>
       </div>
     </div>
   </body>
 </html>
 
-<img src="images/pCoa-bacteria.jpeg"/>
+
+
+<html>
+  <head>
+    <style>
+      .container {
+        display: flex;
+        align-items: center;
+        justify-content: center
+      }
+      img {
+        max-width: 100%
+      }
+      .image {
+        flex-basis: 900%
+      }
+      .text {
+        font-size: 10px;
+        padding-left: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="images/pCoa-bacteria.jpeg"/>
+      </div>
+      <div class="text">
+        <h3>In the ITS analysis, beta-diversity differed between the samples with earthworms and the control samples, but in the shotgun analysis, both             PCoA methods grouped all samples together regardless of the presence or absence of earthworms.
+        </h3>
+      </div>
+    </div>
+  </body>
+</html>
 
 [//]: # (For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).)
