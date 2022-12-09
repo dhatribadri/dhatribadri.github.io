@@ -27,8 +27,10 @@ Feature [article](https://issuu.com/gwur/docs/gwur-vol4) in George Washington Un
 
 ### Articles I have written
 
--[Women soldiers are not the problem – standards are](http://example.com/](https://gwur67.wixsite.com/blog/post/women-soldiers-are-not-the-problem-standards-are)
--[Influence of militarism on science and technology](http://example.com/](https://gwur67.wixsite.com/blog/post/influence-of-militarism-on-science-and-technology)
+- [Project 1 Title](http://example.com/)
+- [Women soldiers are not the problem – standards are](http://example.com/](https://gwur67.wixsite.com/blog/post/women-soldiers-are-not-the-problem-standards-are)
+- [Influence of militarism on science and technology](http://example.com/](https://gwur67.wixsite.com/blog/post/influence-of-militarism-on-science-and-technology)
+
 
 ---
 
