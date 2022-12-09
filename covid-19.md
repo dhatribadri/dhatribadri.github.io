@@ -11,8 +11,8 @@ according to their positions (as seen on the home page of the project).
 
 
 ### 2. How was data analyzed?
-
-Our conclusion was that the furin cleavage site is of interest to us as it is not found in SARS-CoV and is unique to SARS-CoV-2 due to its prime location nestled within the receptor-binding motif which is crucial for the viral entry into the host cell. Click [here](https://docs.google.com/presentation/d/1umXnbUF3ZsVV_Ev_eEH5UHNSQbRNiTryFM7SetCvnSU/edit#slide=id.p) for the final presentation of this project. 
+Click [here](https://docs.google.com/presentation/d/1umXnbUF3ZsVV_Ev_eEH5UHNSQbRNiTryFM7SetCvnSU/edit#slide=id.p) for the final analyses of this project. 
+Our conclusion was that the furin cleavage site is of interest to us as it is not found in SARS-CoV and is unique to SARS-CoV-2 due to its prime location nestled within the receptor-binding motif which is crucial for the viral entry into the host cell.
 
 
 <!--- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
