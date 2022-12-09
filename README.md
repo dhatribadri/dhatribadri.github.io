@@ -1,4 +1,4 @@
-## Dhatri Badri's Portfolio Landing Page 
+## Dhatri Badri's GitHub Page 
 
 ### Introduction
 
