@@ -20,7 +20,8 @@ It's always a little hard to get to know someone through their GitHub page—lik
 ### Articles and books I am currently reading 
 
 My all time favorite book is [Why Fish Don't Exist](https://www.simonandschuster.com/books/Why-Fish-Dont-Exist/Lulu-Miller/9781501160349#:~:text=Why%20Fish%20Don't%20Exist%20begins%20with%20a%20mesmerizing%20account,struggle%2C%20of%20heartbreak%20and%20chaos.)
-Article I recently read is about [the direct and indirect effects cancer has on the human microbiom](https://doi.org/10.1016/j.trecan.2020.01.004)
+
+Article I recently read is about [the direct and indirect effects cancer has on the human microbiome](https://doi.org/10.1016/j.trecan.2020.01.004)
 
 ### Contact me
 
